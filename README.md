@@ -21,7 +21,7 @@ https://www.roblox.com/games/3260590327/Tower-Defense-Simulator
 * Modo y Mapa: Programado específicamente para Hardcore en el mapa Wretched Front.
 
 * Calibracion de camara: antes de iniciarlo se debe hacer la calibración de cámara, aveces tiende a fallar asi que como referencia el personaje debe quedar mirando hacia donde vienen los enemigos / como en la foto
-![Referencia de calibración de cámara](fotoReferencia.png)
+![Referencia de calibración de cámara](FotoReferencia.png)
 
 * Torres Requeridas: Golden Pyromancer y Crook boss en slots 1 y 2 respectivamente (deberia funcionar bien con pyro normal, no testeado) 
 * Extras: dentro del codigo comentado se incluye la posibilidad de añadir otras torres (por ejemplo, para farmear XP), siempre que el dinero  alcance para completar el ciclo de mejora
